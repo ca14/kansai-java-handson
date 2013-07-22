@@ -1,4 +1,4 @@
-# 関西java+Spring寺子屋
+# 関西 Java+Spring 寺子屋
 
 関西　Java + Spring ハンズオンの概要です。
 
